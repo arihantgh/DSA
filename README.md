@@ -1,5 +1,5 @@
 ## Sorting
-- [ ] [selection sort](./sorting/selectionSort.cpp)
+- [x] [selection sort](./sorting/selectionSort.cpp)
 - [ ] [bubble sort](./sorting/bubbleSort.cpp)
 - [ ] [insertion sort](./sorting/insertionSort.cpp)
 - [ ] [merge sort](./sorting/mergeSort.cpp)
